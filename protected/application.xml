@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<application id="prado-minapp" mode="Debug">
+  <services>
+    <service id="page"
+           class="TPageService"
+           DefaultPage="Home"
+           />
+  </services>
+</application>
